@@ -1,0 +1,70 @@
+body{
+    background : rgba(0,0,0,0.7) url(Netflix-Background.jpg) ;
+    background-blend-mode:soft-light ;
+}
+.container{
+    margin-top: 20px;
+}
+h1{
+    font-size:50px ;
+    margin:0px 0px 0px 100px;
+    padding-bottom: 50px;
+    
+    
+    
+}
+.main{
+    color: beige;
+    font-size:40px ;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+    color:beige;
+    font-size:25px ;
+    text-align: center;
+}
+.name{
+    color: beige;
+    text-align: center;
+    margin-top: 20px;
+    font-size:20px ;
+}
+.email{
+   text-align: center;
+   margin-top: 20px;
+
+}
+.email input{
+padding: 18px 15px;
+width:400px ;
+background: transparent;
+border-radius: 5px;
+border-color: beige;
+color: beige;
+}
+.email button{
+    padding: 15px 10px;
+    background-color: red;
+    border: none;
+    color: beige;
+    font-size: 20px;
+    border-radius: 5px;
+    
+}
+nav button{
+    border: 0;
+    outline: 0;
+    background: #db0001;
+    color:beige ;
+    padding:7px 20px ;
+    font-size: 12px;
+    border-radius: 4px;
+    margin-left: 1200px;
+    cursor: pointer;
+    margin-top: 20px
+    
+}
+b{
+    font-family: sans-serif;
+}
